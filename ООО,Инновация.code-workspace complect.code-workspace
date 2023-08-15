@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../vscode-test"
+		},
+		{
+			"path": "../../Downloads/Telegram Desktop/form"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ООО,Инновация"
+	}
+}
